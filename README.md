@@ -3,9 +3,6 @@
 A flutter Twitter UI clone
 
 Properly documented to help you get started with Flutter.
-![alt text](http://url/to/img.png)
-
-![](https://github.com/RayOkaah/Flutter_Twitter_Clone/blob/master/images/Screenshot1.png)
 
 ![](https://github.com/RayOkaah/Flutter_Twitter_Clone/blob/master/images/Screenshot2.png)
 

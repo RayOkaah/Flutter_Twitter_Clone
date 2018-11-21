@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: new ThemeData(
         //primarySwatch: Colors.blue,
@@ -36,6 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context){
     return new MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: new DefaultTabController(
           length: 4, child: new Scaffold(
         appBar: new AppBar(
